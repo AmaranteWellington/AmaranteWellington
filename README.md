@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Amarante Wellington!
 
 
-- 🌱 Estudando HTML, CSS e JavaScript ...
+- 🌱 Estudando HTML, CSS ,JavaScript e C# ...
 - 📫 Como me encontrar: amaranthwfs@gmail.com
 
 <div align="center">
