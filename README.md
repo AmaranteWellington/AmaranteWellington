@@ -3,12 +3,14 @@
 
 - 🌱 conhecimento em HTML, CSS ,JavaScript ,C# , Dart e Flutter ...
 - 📫 Como me encontrar: amaranthwfs@gmail.com
-
-<div align="center">
+##
+<div align="start">
   <a href="https://github.com/AmaranteWellington">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmaranteWellington&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaranteWellington&layout=compact&langs_count=7&theme=dark"/>
 </div>
+ 
+ ##
   
 <div align="start">
   <img align="center" alt="Ama-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
