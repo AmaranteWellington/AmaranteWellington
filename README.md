@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Amarante Wellington!
 
 
-- 🌱 Estudando HTML, CSS ,JavaScript e C# ...
+- 🌱 conhecimento em HTML, CSS ,JavaScript ,C# , Dart e Flutter ...
 - 📫 Como me encontrar: amaranthwfs@gmail.com
 
 <div align="center">
@@ -14,6 +14,12 @@
   <img align="center" alt="Ama-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ama-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ama-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+    
+            <i class="devicon-flutter-plain colored"></i>
+          
+          
  
 </div>
   
